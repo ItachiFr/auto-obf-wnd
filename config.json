@@ -1,0 +1,44 @@
+{
+    "accuracy": 80,
+    "autocatcher": true,
+    "autolog": true,
+    "blacklist": [],
+    "blacklisted-channels": [
+
+    ],
+    "bot-cmd-id": "",
+    "bot-cmd-order": ,
+    "bot_prefix": "-",
+    "bot_token": "",
+    "delay": 1.2,
+    "edit-delay": 1.3,
+    "iv-mode": false,
+    "iv-threshold": 60,
+    "key": "",
+    "log_id": "",
+    "log_level": "default",
+    "low-suspicion mode": false,
+    "market-sniper": false,
+    "market-sniper-delay": 5,
+    "market-sniper_channel": 12345,
+    "market-sniper_price": 40000,
+    "market-sniper_token": "",
+    "max-duplicates": 4,
+    "owner_id": [
+
+    ],
+    "password": "itachi@2021",
+    "priority": [
+        "raichu",
+        "unown"
+    ],
+    "priority-only-mode": false,
+    "restrict-duplicates": false,
+    "say_prefix": "//",
+    "shiny-bot": "pokename",
+    "shiny-mode": false,
+    "spam_id": "",
+    "typo-percentage": 10,
+    "user_token": "",
+    "whitelisted-guilds": []
+}
